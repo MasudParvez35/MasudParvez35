@@ -7,7 +7,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: HTML / CSS / JS / C++ / Algorithm / Data Structure
 
 - 🔭 I’m currently working on CP 
-- 🌱 I’m currently learning DataStructure, Algorithm and node js 
+- 🌱 I’m currently learning DS_ALGO
 - 📫 How to reach me: parvezcse35@gmail.com
 
 
