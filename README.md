@@ -8,7 +8,7 @@ Skills: HTML / CSS / JS / C++ / Algorithm / Data Structure
 
 - 🔭 I’m currently working on CP 
 - 🌱 I’m currently learning DataStructure, Algorithm and node js 
-- 📫 How to reach me: http://www.facebook.com/parvezcse 
+- 📫 How to reach me: parvezcse35@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MasudParvez35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/http://www.facebook.com/parvezcse)  
