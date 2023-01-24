@@ -9,4 +9,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 💡Solving programming problems at Codeforces, Codechef, Leetcode
 - 📖Learning Various Data Structures and Algorithms
 - 📗Working on Final Year Thesis
-- 💼 Open to Work for Junior Software Engineer Role
+ <-- - 💼 Open to Work for Junior Software Engineer Role-->
