@@ -7,6 +7,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🎓Currently I'm studying at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj
 - 💡Solving programming problems at Codeforces, Codechef, Leetcode
-📖Learning Various Data Structures and Algorithms
-📗Working on Final Year Thesis
-💼 Open to Work for Junior Software Engineer Role
+- 📖Learning Various Data Structures and Algorithms
+- 📗Working on Final Year Thesis
+- 💼 Open to Work for Junior Software Engineer Role
