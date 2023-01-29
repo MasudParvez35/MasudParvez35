@@ -5,5 +5,5 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 
 - 🎓Currently I'm studying at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj
-- 💡Solving programming problems at <a href = "#">Codeforces<a/>, Codechef, Leetcode
+- 💡Solving programming problems at <a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/>, <a href = "https://codeforces.com/profile/Masud-Parvez">Codeforces<a/>, <a href ="https://www.codechef.com/users/parvezcse">Codechef</a>
 - 📖Learning Various Data Structures and Algorithms
