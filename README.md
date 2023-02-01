@@ -1,9 +1,10 @@
+![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
 ### Hi there 👋,I am Masud Parvez
 <hr>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
+
 - 🎓Currently I'm studying at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj
 - 💡Solving programming problems at <a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/>, 
   <a href = "https://codeforces.com/profile/Masud-Parvez">Codeforces<a/>, 
