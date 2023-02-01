@@ -3,7 +3,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-
+![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
 - 🎓Currently I'm studying at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj
 - 💡Solving programming problems at <a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/>, 
   <a href = "https://codeforces.com/profile/Masud-Parvez">Codeforces<a/>, 
@@ -11,4 +11,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
     <a href = "https://toph.co/u/masud_parvezpp">Toph</a>
 - 📖Learning Various Data Structures and Algorithms
    <br><br>
-![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
+
