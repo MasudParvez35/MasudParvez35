@@ -1,4 +1,4 @@
-
+![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
 
 ### Hi there 👋,I am Masud Parvez
 <hr>
@@ -12,4 +12,4 @@
 
     
     Connect with me: 
-![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
+
