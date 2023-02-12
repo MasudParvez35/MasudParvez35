@@ -2,7 +2,6 @@
 
 ### Hi there 👋,I am Masud Parvez
 <hr>
-![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
 - 🎓Currently I'm studying at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj
 -  How to reach me <a href = "parvezcse35@gmail.com">parvezcse35@gmail.com</a>
 - 💡Solving programming problems at <a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/>, 
@@ -13,3 +12,4 @@
 
     
     Connect with me: 
+![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
