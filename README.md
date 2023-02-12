@@ -10,6 +10,3 @@
    <a href = "https://toph.co/u/masud_parvezpp">Toph</a>
 - 📖Learning Various Data Structures and Algorithms
 
-    
-    Connect with me: 
-
