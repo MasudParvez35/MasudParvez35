@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
-
+![](https://komarev.com/ghpvc/?username=MasudParvez35&color=green)
 ### Hi there 👋,I am Masud Parvez
 <hr>
 - 🎓Currently I'm studying at Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj <br>
