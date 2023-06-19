@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/MasudParvez35)  
+![Profile views](https://gpvc.arturio.dev/[MasudParvez35])  
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 ![](https://komarev.com/ghpvc/?username=MasudParvez35&label=PROFILE+VIEWS)
 ### Hi there 👋,I am Masud Parvez
 <hr>
