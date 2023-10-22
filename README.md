@@ -10,23 +10,3 @@
    <a href ="https://www.codechef.com/users/parvezcse">Codechef</a>,
    <a href = "https://toph.co/u/masud_parvezpp">Toph</a>,
     <a href = "https://www.hackerearth.com/@Masud_Parvez">HackerEarth</a>
-<table>
-  <thead>
-    <td>Leetcode</td>
-    <td>Codeforces</td>
-    <td>Atcoder</td>
-    <td>Codechef</td>
-    <td>Hackerrank</td>
-    <td>Hackerearth</td>
-    <td>Toph</td>
-  </thead>
-  <tbody>
-    <td><a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/></td>
-      <td><a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/></td>
-      <td><a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/></td>
-      <td><a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/></td>
-      <td><a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/></td>
-      td><a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/></td>
-      <td><a href = "https://leetcode.com/Masud_Parvez/">Leetcode<a/></td>
-  </tbody>
-</table>
