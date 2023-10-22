@@ -10,3 +10,9 @@
    <a href ="https://www.codechef.com/users/parvezcse">Codechef</a>,
    <a href = "https://toph.co/u/masud_parvezpp">Toph</a>,
     <a href = "https://www.hackerearth.com/@Masud_Parvez">HackerEarth</a>
+<table>
+  <thead>
+    <td>Leetcode</td>
+    <td>Codeforces</td>
+  </thead>
+</table>
