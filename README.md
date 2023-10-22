@@ -14,5 +14,10 @@
   <thead>
     <td>Leetcode</td>
     <td>Codeforces</td>
+    <td>Atcoder</td>
+    <td>Codechef</td>
+    <td>Hackerrank</td>
+    <td>Hackerearth</td>
+    <td>Toph</td>
   </thead>
 </table>
