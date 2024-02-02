@@ -10,4 +10,4 @@
    <a href ="https://www.codechef.com/users/parvezcse">Codechef</a>,
    <a href = "https://toph.co/u/masud_parvezpp">Toph</a>,
     <a href = "https://www.hackerearth.com/@Masud_Parvez">HackerEarth</a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasudParvez35&theme=tokyonight)
