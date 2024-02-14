@@ -10,7 +10,7 @@
    <a href ="https://www.codechef.com/users/parvezcse">Codechef</a>,
    <a href = "https://toph.co/u/masud_parvezpp">Toph</a>,
     <a href = "https://www.hackerearth.com/@Masud_Parvez">HackerEarth</a>
-
+<hr>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=turzacse&theme=synthwave)](https://git.io/streak-stats)
 
 ![turzacse's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse&theme=monokai&show_icons=true&hide_border=true&layout=compact)
