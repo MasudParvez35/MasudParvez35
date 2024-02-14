@@ -13,4 +13,4 @@
 <hr>
 
 
-![turzacse's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turzacse&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+![MasudParvez35's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasudParvez35&theme=monokai&show_icons=true&hide_border=true&layout=compact)
